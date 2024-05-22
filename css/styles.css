@@ -1,0 +1,58 @@
+* {
+    box-sizing: border-box;
+}
+body {
+    background-color: rgb(25, 127, 178);
+}
+.armas {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    z-index: 1;
+    animation-delay: 1.5s;
+  }
+  .textura {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    z-index: -1;
+    animation-delay: 0s;
+  }
+  .sombras {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    z-index: -2;
+    animation-delay: 0s;
+  }
+  .monjes {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    z-index: -4;
+    animation-delay: 0s;
+  }
+  .texto1 {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    z-index: -5;
+    animation-delay: 1s;
+  }
+  .texto {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    z-index: -6;
+    animation-delay: 2s;
+  }
+  .sueloCaras   {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    z-index: -7;
+    animation-delay: 0s;
+  }
+  #fusion {
+    position: relative;
+  }
